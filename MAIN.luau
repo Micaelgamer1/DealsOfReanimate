@@ -1,4 +1,4 @@
---!optimize 2
+print("PATCHMA CARREGOU!")
 --[[
 	patchma hub by rqz
 	MyWorld was here
